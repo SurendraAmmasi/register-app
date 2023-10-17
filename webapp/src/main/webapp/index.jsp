@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>It's your chance to win Iphone 15 Pro !!!</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account & win iphone for free</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
